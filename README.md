@@ -1,6 +1,6 @@
 CitiConnect-Kubana-Kevin
 
-### You have first to run this becouse i remove the Node_modules filefor making project small
+### You have first to run this becouse i remove the Node_modules file of Frontend (folder) for making project small
 .... cd frontend
 ..... npm install
 ..... npm start
