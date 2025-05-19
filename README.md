@@ -1,7 +1,11 @@
 CitiConnect-Kubana-Kevin
 
+### You have first to run this becouse i remove the Node_modules filefor making project small
+.... cd frontend
+..... npm install
+..... npm start
 
-## 🏡 Engagement System
+## 🏡CitiConnect
 
 A web-based platform that allows citizens to submit, track, and get responses to complaints related to public services. Government agencies can respond to complaints and update their statuses in real time.
 
